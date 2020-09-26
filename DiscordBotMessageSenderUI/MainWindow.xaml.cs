@@ -24,5 +24,10 @@ namespace DiscordBotMessageSenderUI
         {
             InitializeComponent();
         }
+
+        private void UserId_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
     }
 }
